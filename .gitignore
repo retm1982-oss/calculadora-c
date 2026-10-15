@@ -1,0 +1,13 @@
+# Binarios compilados
+a.out
+calculadora
+*.o
+
+# Archivos temporales de VS Code / Code Runner
+tempCodeRunnerFile
+tempCodeRunnerFile.c
+built-in
+<built-in>
+
+# Carpetas de salida
+output/
